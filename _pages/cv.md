@@ -15,10 +15,10 @@ redirect_from:
 
 ## Education
 
-**Ph.D.,** Hispanic Linguistics, University of Pittsburgh (2023)<br>
-**M.A.,** Hispanic Linguistics, University of Pittsburgh (2020)<br>
-**M.A.,** Spanish, Auburn University (2018)<br>
-**B.A. (*Licenciatura*),** Translation and Interpreting, Universidad Central de Venezuela (2015)
+**Ph.D.**, Hispanic Linguistics, University of Pittsburgh (2023)<br>
+**M.A.**, Hispanic Linguistics, University of Pittsburgh (2020)<br>
+**M.A.**, Spanish, Auburn University (2018)<br>
+**B.A. (*Licenciatura*)**, Translation and Interpreting, Universidad Central de Venezuela (2015)
 
 ---
 

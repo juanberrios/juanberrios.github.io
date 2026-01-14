@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "About me"
+title: "About Me"
 author_profile: true
 redirect_from:
   - /about/
@@ -12,10 +12,10 @@ redirect_from:
 
 ## Education
 
-- Ph.D., Hispanic Linguistics, University of Pittsburgh (2023)
-- M.A., Hispanic Linguistics, University of Pittsburgh (2020)
-- M.A., Spanish, Auburn University (2018)
-- B.A. (*Licenciatura*), Translation and Interpreting, Universidad Central de Venezuela (2015)
+- **Ph.D.**, Hispanic Linguistics, University of Pittsburgh (2023)
+- **M.A.**, Hispanic Linguistics, University of Pittsburgh (2020)
+- **M.A.**, Spanish, Auburn University (2018)
+- **B.A. (*Licenciatura*)**, Translation and Interpreting, Universidad Central de Venezuela (2015)
 
 ## Research Interests
 
@@ -24,7 +24,7 @@ redirect_from:
 - Bi/multilingualism in the U.S.
 - Tense-mood-aspect systems
 - Code-switching
-- Usage-based approaches
+- Usage-based linguistics
 
 ## Contact
 
