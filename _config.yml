@@ -12,8 +12,8 @@ site_theme: "default" # The available themes options are "default", "air", "sunr
 title: "Juan Berríos, Ph.D."
 title_separator: "-"
 name: "Juan Berríos"
-description: "Juan Berríos's academic portfolio" # Update this with a general description of your site, this is the default if not overridden by a page
-url: "https://juanberrios.github.io"
+description: "Juan Berríos's academic portfolio"
+url: "https://berriosj.com"
 baseurl: ""
 repository: "juanberrios/juanberrios.github.io"
 
