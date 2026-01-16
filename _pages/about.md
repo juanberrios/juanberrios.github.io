@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<p style="text-align: justify;">I'm an Assistant Professor in the Department of Modern and Classical Languages and Literatures at California State University, Fresno. I am a linguist and I specialize in language acquisition, sociolinguistics, and computational linguistics. In my research I focus primarily on morphosyntactic features and I draw upon functional approaches to language research, including variationist and usage-based approaches. In my free time I enjoy going to the movies, playing adventure videogames, and eating peanut butter cups.</p>
+<p style="text-align: justify;">
+  I'm an Assistant Professor in the
+  <a href="https://cah.fresnostate.edu/mcll/index.html">Department of Modern and Classical Languages and Literatures</a>
+  at California State University, Fresno. I am a linguist and I specialize in language acquisition, sociolinguistics, and computational linguistics. In my research I focus primarily on morphosyntactic features and I draw upon functional approaches to language research, including variationist and usage-based approaches. In my free time I enjoy going to the movies, playing adventure videogames, and eating peanut butter cups.
+</p>
 
 ## Education
 
@@ -20,11 +24,20 @@ redirect_from:
 ## Research Interests
 
 - Spanish as a second and heritage language
-- Variation and change in Spanish and Romance
+- Morphosyntactic variation in Spanish and Romance
 - Bi/multilingualism in the U.S.
 - Tense-mood-aspect systems
+- Spanish Dialectology
 - Code-switching
-- Usage-based linguistics
+- Data science for language research
+
+## Recent Updates
+
+{% for post in site.posts limit:3 %}
+* **{{ post.date | date: "%b %Y" }}:** [{{ post.title }}]({{ post.url }})
+{% endfor %}
+
+[Read more...](/year-archive/)
 
 ## Contact
 
