@@ -15,6 +15,6 @@ gallery:
     title: "Coffee break with colleagues"
 ---
 
-I was happy to join my colleagues to present on three projects at the 2025 Hispanic Linguistics Symposium, held at the University of Arizona.
+I was happy to join my colleagues to present on three projects at the 2025 Hispanic Linguistics Symposium, held at the University of Arizona. The conference was a blast.
 
 {% include gallery %}
