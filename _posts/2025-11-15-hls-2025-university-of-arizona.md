@@ -1,16 +1,16 @@
 ---
 title: "Presented at HLS 2025 (University of Arizona)"
 gallery:
-  - url: /HLS20251.jpg
-    image_path: /HLS20251.jpg
+  - url: HLS20251.jpg
+    image_path: HLS20251.jpg
     alt: "Presenting at HLS"
     title: "Project 1 presentation"
-  - url: /HLS20252.jpg
-    image_path: /HLS20252.jpg
+  - url: HLS20252.jpg
+    image_path: HLS20252.jpg
     alt: "Presenting at HLS"
     title: "Project 2 presentation"
-  - url: /HLS20253.jpg
-    image_path: /HLS20253.jpg
+  - url: HLS20253.jpg
+    image_path: HLS20253.jpg
     alt: "Presenting at HLS"
     title: "Coffee break with colleagues"
 ---

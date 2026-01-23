@@ -1,8 +1,8 @@
 ---
 title: "Presented at PAMLA 2025 (San Francisco, CA)"
 gallery:
-  - url: /PAMLA20251.jpg
-    image_path: /PAMLA20251.jpg
+  - url: PAMLA20251.jpg
+    image_path: PAMLA20251.jpg
     alt: "Presenting at PAMLA"
     title: "Project presentation"
 ---
