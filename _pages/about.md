@@ -27,7 +27,7 @@ redirect_from:
 - Morphosyntactic variation in Spanish and Romance
 - Bi/multilingualism in the U.S.
 - Tense-mood-aspect systems
-- Spanish Dialectology
+- Spanish dialectology
 - Code-switching
 - Data science for language research
 
