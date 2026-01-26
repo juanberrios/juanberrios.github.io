@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-{% comment %}
-[Download CV (PDF)](/files/Berrios_CV.pdf){: .btn .btn--primary }
-{% endcomment %}
+[Download CV (PDF)]({{ base_path }}/files/Berríos_CV.pdf){: .btn .btn--primary }
 
 ## Education
 
