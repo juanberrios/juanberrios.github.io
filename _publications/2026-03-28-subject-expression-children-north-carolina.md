@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/subject-expression-children-north-carolina/
 date: 2026-03-28
 venue: "International Journal of Bilingualism"
-paperurl: "https://doi.org/10.1177/1367006926142201"
+paperurl: "https://doi.org/10.1177/13670069261422011"
 citation: 'Fafulas, S., Méndez, L., Berríos, J., Perry, J., Holt, Y., &amp; Winnick, C. (2026). &quot;Subject expression and cross-linguistic interference among bilingual Latino children in eastern North Carolina.&quot; <i>International Journal of Bilingualism</i>, 0(0). https://doi.org/10.1177/13670069261422011'
 ---
 
