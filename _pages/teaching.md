@@ -7,6 +7,10 @@ author_profile: true
 
 ## Courses taught
 
+### University of Georgia
+
+- Cultural Dialogues and Critical Reading and Writing for Spanish Heritage Speakers 
+
 ### California State University, Fresno
 
 - The Acquisition of Spanish as a Second Language (Graduate seminar)

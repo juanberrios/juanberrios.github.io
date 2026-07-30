@@ -25,11 +25,11 @@ author:
   avatar: "avatar.jpg"
   name: "Juan Berríos"
   pronouns: # example: "she/her"
-  bio: "Assistant Professor of Spanish"
-  location: "Fresno, CA"
-  employer: "California State University, Fresno"
+  bio: "Assistant Professor"
+  location: "Athens, GA"
+  employer: "University of Georgia"
   #uri: "URL"
-  email: "jb25@csufresno.edu"
+  email: "jberrios@uga.edu"
 
   # Academic websites
   googlescholar: "https://scholar.google.com/citations?user=82Pp-voAAAAJ&hl=en"

@@ -9,17 +9,17 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-  I'm an Assistant Professor in the
-  <a href="https://cah.fresnostate.edu/mcll/index.html">Department of Modern and Classical Languages and Literatures</a>
-  at California State University, Fresno. I am a linguist and I specialize in language acquisition, sociolinguistics, and computational linguistics. In my research I focus primarily on morphosyntactic features and I draw upon functional approaches to language research, including variationist and usage-based approaches. In my free time I enjoy going to the movies, playing adventure videogames, and eating peanut butter cups.
+  I'm an incoming Assistant Professor in the
+  <a href="https://www.rom.uga.edu/">Department of Romance Languages</a>
+  at the University of Georgia. I am a linguist and I specialize in language acquisition, sociolinguistics, and computational linguistics. In my research I focus primarily on morphosyntactic features and I draw upon functional approaches to language research, including variationist and usage-based approaches. In my free time I enjoy going to the movies, playing adventure videogames, and eating peanut butter cups.
 </p>
 
 ## Education
 
-- **Ph.D.**, Hispanic Linguistics, University of Pittsburgh (2023)
-- **M.A.**, Hispanic Linguistics, University of Pittsburgh (2020)
-- **M.A.**, Spanish, Auburn University (2018)
-- **B.A. (*Licenciatura*)**, Translation and Interpreting, Universidad Central de Venezuela (2015)
+- **Ph.D.**, Hispanic Linguistics, University of Pittsburgh
+- **M.A.**, Hispanic Linguistics, University of Pittsburgh
+- **M.A.**, Spanish, Auburn University
+- **B.A. (*Licenciatura*)**, Translation and Interpreting, Universidad Central de Venezuela
 
 ## Research Interests
 
@@ -41,6 +41,7 @@ redirect_from:
 
 ## Contact
 
-Department of Modern and Classical Languages and Literatures<br>
-5245 N. Backer Ave. M/S PB-96<br>
-Fresno, CA 93740
+Department of Romance Languages<br>
+210 Herty Drive<br>
+University of Georgia<br>
+Athens, GA 30602-1815
