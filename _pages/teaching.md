@@ -9,7 +9,7 @@ author_profile: true
 
 ### University of Georgia
 
-- Cultural Dialogues and Critical Reading and Writing for Spanish Heritage Speakers 
+- Cultural Dialogues and Critical Reading and Writing for Spanish Heritage Speakers I
 
 ### California State University, Fresno
 
