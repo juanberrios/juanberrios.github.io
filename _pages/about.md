@@ -11,7 +11,7 @@ redirect_from:
 <p style="text-align: justify;">
   I'm an Assistant Professor of Spanish Linguistics in the
   <a href="https://www.rom.uga.edu/">Department of Romance Languages</a>
-  at the University of Georgia. I am a linguist and I specialize in language acquisition, sociolinguistics, and computational linguistics. In my research I focus primarily on morphosyntactic features and I draw upon functional approaches to language research, including variationist and usage-based approaches. In my free time I enjoy going to the movies, playing adventure videogames, and eating peanut butter cups.
+  at the University of Georgia. In the past I taught at Auburn, Pitt, and Fresno State. I am a linguist and I specialize in language acquisition, sociolinguistics, and computational linguistics. In my research I focus primarily on morphosyntactic features and I draw upon functional approaches to language research, including variationist and usage-based approaches. In my free time I enjoy going to the movies, playing adventure videogames, and eating peanut butter cups.
 </p>
 
 ## Education

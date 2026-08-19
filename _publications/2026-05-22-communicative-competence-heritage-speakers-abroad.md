@@ -3,10 +3,12 @@ title: "Communicative competence and the acquisition of variation by heritage sp
 collection: publications
 category: manuscripts
 permalink: /publication/communicative-competence-heritage-speakers-abroad/
-date: 2026-01-01
+date: 2026-05-22
 venue: "Spanish as a Heritage Language"
-citation: 'Kanwit, M., Berríos, J., &amp; Hernández Hurtado, A. (in press). &quot;Communicative competence and the acquisition of variation by heritage speakers abroad: Main methods, principal findings, and future directions.&quot; <i>Spanish as a Heritage Language</i>.'
+paperurl: "https://doi.org/10.5744/shl.2026.3596"
+citation: 'Kanwit, M., Berríos, J., &amp; Hernández Hurtado, A. (2026). &quot;Communicative competence and the acquisition of variation by heritage speakers abroad: Main methods, principal findings, and future directions.&quot; <i>Spanish as a Heritage Language</i>, 6(1), 14-38. https://doi.org/10.5744/shl.2026.3596'
 ---
+
 
 ## Abstract
 
