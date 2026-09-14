@@ -6,7 +6,7 @@ permalink: /publication/adjective-position-venezuela-corpus/
 date: 2026-08-18
 venue: "Spanish in Context"
 paperurl: "https://doi.org/10.1075/sic.25021.ber"
-citation: 'Berríos, J., &amp; Kanwit, M. (2026). &quot;Frequency and phonological effects on variable noun-adjective order in a spontaneous-speech corpus of Venezuelan Spanish.&quot; <i>Spanish in Context</i> (Online First). https://doi.org/10.1177/13670069261422011'
+citation: 'Berríos, J., &amp; Kanwit, M. (2026). &quot;Frequency and phonological effects on variable noun-adjective order in a spontaneous-speech corpus of Venezuelan Spanish.&quot; <i>Spanish in Context</i>, 23(2), 131-155. https://doi.org/10.1075/sic.25021.ber'
 ---
 
 ## Abstract
