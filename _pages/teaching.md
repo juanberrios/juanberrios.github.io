@@ -9,11 +9,12 @@ author_profile: true
 
 ### University of Georgia
 
+- Spanish Second Language Acquisition (Graduate)
 - Cultural Dialogues and Critical Reading and Writing for Spanish Heritage Speakers I
 
 ### California State University, Fresno
 
-- The Acquisition of Spanish as a Second Language (Graduate seminar)
+- The Acquisition of Spanish as a Second Language (Graduate)
 - Applied Spanish Linguistics
 - Introduction to Spanish Linguistics
 - Advanced Translation
@@ -28,7 +29,7 @@ author_profile: true
 - Overview of Spanish Linguistics
 - Spanish Grammar and Composition
 - Spanish Conversation
-- Intermediate Spanish
+- Intermediate Spanish II
 - Elementary Spanish I
 
 ### Auburn University
