@@ -15,6 +15,6 @@ gallery:
     title: "UGA faculty, students, and alumni"
 ---
 
-Another edition of the Hispanic Linguistics Symposium in the books. Thank you to the organizers at UC Boulder for their amazing work. 
+Another edition of the Hispanic Linguistics Symposium in the books. I participated in a thematic panel, presented a paper, and met many great colleagues. Thank you to the organizers at UC Boulder for their amazing work. 
 
 {% include gallery %}
