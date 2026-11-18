@@ -1,9 +1,11 @@
 ---
 layout: single
-title: "Teaching"
+title: "Teaching and Mentoring"
 permalink: /teaching/
 author_profile: true
 ---
+
+Below is a list of courses I have taught throughout the years. If you are prospective graduate student interested in our programs, I strongly encourage you to email me with a statement describing your research interests, academic background, and relevant experience.
 
 ## Courses taught
 
