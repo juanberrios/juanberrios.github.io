@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Teaching and Mentoring"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
-Below is a list of courses I have taught throughout the years. If you are prospective graduate student interested in our programs, I strongly encourage you to email me with a statement describing your research interests, academic background, and relevant experience.
+Below is a list of courses I have taught throughout the years. If you are prospective graduate student interested in <a href="https://www.rom.uga.edu/prospective-students">our programs</a>, I strongly encourage you to email me with a statement describing your research interests, academic background, and relevant experience before applying.
 
 ## Courses taught
 
